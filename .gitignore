@@ -1,0 +1,6 @@
+venv/
+images/
+local_qdrant_db/
+__pycache__
+
+debug.py
